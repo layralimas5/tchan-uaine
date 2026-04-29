@@ -92,26 +92,3 @@ function RootComponent() {
   );
 }
 ```
-
----
-
-# 🚀 O QUE VOCÊ FAZ AGORA
-
-1. Substitui tudo no `__root.tsx`
-2. Commit no GitHub
-3. Espera o deploy do Netlify
-4. Abre o site
-
----
-
-# 🎯 RESULTADO ESPERADO
-
-👉 Tela branca desaparece
-👉 Site carrega normal
-👉 Router funciona
-
----
-
-Se ainda der tela branca (acho bem difícil agora), o próximo alvo é o `main.jsx` — mas sinceramente, isso aqui já resolve.
-
-Vai lá e me fala quando subir 🔥
